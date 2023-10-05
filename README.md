@@ -1,5 +1,5 @@
 # USA COVID-19 Vaccination Analysis and Visualization
-![COVID-19 Vaccination](https://drive.google.com/file/d/1dUqpxO9mfCcnL__rk6hUNuIjFtYwAc2T/view?usp=sharing)
+![COVID-19 Vaccination](https://github.com/bena83/USA_Covid19-Vaccination_Python_EDA-Analysis/blob/main/heatmap.png)
 This repository contains an exploratory data analysis (EDA) and visualization of COVID-19 vaccination data for the United States. The project aims to provide insights into the vaccination progress and trends in the USA.
 
 ## Table of Contents
