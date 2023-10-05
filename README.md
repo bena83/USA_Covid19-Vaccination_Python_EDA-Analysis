@@ -20,7 +20,7 @@ The COVID-19 pandemic has had a significant impact worldwide. Vaccination is a c
 The analysis is based on data collected from reliable sources, including:
 
 - [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/): The primary source for COVID-19 vaccination data in the USA.
-- [kaggle]:(https://www.kaggle.com/datasets/paultimothymooney/usa-covid19-vaccinations)
+- [kaggle](https://www.kaggle.com/datasets/paultimothymooney/usa-covid19-vaccinations)
 
 ## Project Overview
 
