@@ -1,2 +1,1 @@
-# USA_Covid19-Vaccination_Python_EDA-Analysis
-Python EDA Analyis
+# USA COVID-19 Vaccination Analysis and Visualization
